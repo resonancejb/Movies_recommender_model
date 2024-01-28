@@ -9,13 +9,9 @@ Here's the requirements.txt file:
 
 
 pandas==1.4.4
-
 numpy==1.23.5
-
 seaborn==0.12.1
-
 sklearn==1.1.2
-
 nltk==3.7
 
 
