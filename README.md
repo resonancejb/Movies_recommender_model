@@ -10,6 +10,8 @@ To install All the used libraries using pip, run the following command in your t
 pip install -r requirements.txt
 
 
+![image](https://github.com/resonancejb/Movies_recommender_model/assets/105265132/46c56d5c-7985-4402-8d6a-3c698a3cc3c3)
+
 
 
 
